@@ -31,7 +31,6 @@ function Navbar() {
           {session ?  (
             <>
             userPhoto
-
             <Link href='/'>
               Share work
             </Link>
