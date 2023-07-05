@@ -5,7 +5,7 @@ import AuthProviders from './AuthProviders';
 
 
 function Navbar() {
-  const session = {}
+  const session = null
   return (
     <nav className='flexBetween navbar'>
       <div className='felx-1 flex-start gap-10'>
